@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    height: 100vh;
+}
+body{
+    background-color: #ffffff;
+    height: 400vh;
+    scroll-behavior: smooth;
+}
+canvas{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    max-height: 100vh;
+    max-width: 100vw;
+}
