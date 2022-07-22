@@ -8,7 +8,7 @@ html{
 }
 body{
     background-color: #ffffff;
-    height: 1200vh;
+    height: 800vh;
     scroll-behavior: smooth;
 }
 canvas{
